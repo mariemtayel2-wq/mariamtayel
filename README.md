@@ -24,6 +24,9 @@
 ![OOP](https://img.shields.io/badge/OOP-8E44AD?style=flat)
 ![Data Structure](https://img.shields.io/badge/Data_Structure-2ECC71?style=flat)
 ![Algorithm](https://img.shields.io/badge/Algorithm-E74C3C?style=flat)
+![API](https://img.shields.io/badge/REST_API-3498DB?style=flat)
+![UI](https://img.shields.io/badge/UI_Design-F39C12?style=flat)
+![State Management](https://img.shields.io/badge/State_Management-9B59B6?style=flat)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
@@ -36,7 +39,7 @@ class About extends Mariem {
   const myTools = {  
     "CoreLanguages" : { "C++", "Dart" },
     "CoreConcepts" : { "OOP", "Data Structure", "Algorithm" },
-    "MobileDevelopment" : { "Flutter", "Firebase" },
+    "MobileDevelopment" : { "Flutter", "UI", "State Management", "REST API", "Firebase" },
     "Tools" : { "Git", "VSCode" }
   };
 }
