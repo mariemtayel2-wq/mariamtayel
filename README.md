@@ -19,15 +19,14 @@
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-8E44AD?style=flat)
+![Data Structure](https://img.shields.io/badge/Data_Structure-2ECC71?style=flat)
+![Algorithm](https://img.shields.io/badge/Algorithm-E74C3C?style=flat)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ```dart
@@ -35,15 +34,10 @@
 
 class About extends Mariem { 
   const myTools = {  
-    "ProgramingLanguages" : { "C++", "Dart", "Java" },
-    "MobileDevelopment" : { "Flutter", "Firebase", "REST APIs", "State Management" },
-    "CS_Fundamentals" : { "Data Structure", "Algorithms", "OOP", "Problem Solving" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "VSCode" },
-    "Platforms" : { "Windows", "GNU/Linux" },
-    "OtherTools" : { "Git", "Figma" }
+    "CoreLanguages" : { "C++", "Dart" },
+    "CoreConcepts" : { "OOP", "Data Structure", "Algorithm" },
+    "MobileDevelopment" : { "Flutter", "Firebase" },
+    "Tools" : { "Git", "VSCode" }
   };
 }
-
-
 
