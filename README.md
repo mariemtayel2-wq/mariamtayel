@@ -16,10 +16,10 @@
 ## 👩‍💻 About Me
 - 🎓 Computer Science Student (AI - Benha University)  
 - 💻 Strong in **C++ & Java**  
-- 📱 Learning **Flutter (Dart)** for Mobile Development  
-- 🛠️ Using **Android Studio** for development  
+- 📱 Learning **Flutter (Dart)**  
+- 🛠️ Using **Android Studio**  
 - 🧠 Problem Solver (Codeforces Level 2)  
-- 🚀 Interested in Mobile Apps & System Design  
+- 🚀 Interested in Mobile Apps & Development  
 
 ---
 
@@ -34,20 +34,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mariemtayel2-wq&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariemtayel2-wq&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## 🏆 Achievements
-<p align="center">
 
-![Codeforces](https://img.shields.io/badge/Codeforces-Level%202-blue?style=for-the-badge&logo=codeforces)
-![ICPC](https://img.shields.io/badge/ICPC-Participant-orange?style=for-the-badge)
-![GDG](https://img.shields.io/badge/GDG-Bootcamp%20Trainee-red?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-Course%20Completed-blue?style=for-the-badge&logo=flutter)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Sheets%20Solved-blue?style=for-the-badge)
 
+![Codeforces](https://img.shields.io/badge/Codeforces-Learning%20Stage-lightgrey?style=for-the-badge)
+
+![ICPC](https://img.shields.io/badge/ICPC-Participant-lightgrey?style=for-the-badge)
+
+![Flutter](https://img.shields.io/badge/Flutter-Course%20Completed-blue?style=for-the-badge)
 </p>
 
 ---
@@ -55,48 +56,22 @@
 ## 📱 Projects
 
 ### 🕌 Islamic App
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-App-blue?style=for-the-badge&logo=flutter" />
-</p>
-
 - Prayer times, Quran, Azkar  
-- Clean UI mobile app  
-
----
+- **Tech:** Flutter, Dart  
 
 ### ✅ To-Do App
-<p align="center">
-  <img src="https://img.shields.io/badge/Productivity-App-green?style=for-the-badge" />
-</p>
-
-- Task management system  
-- Add / delete / update tasks  
-
----
+- Task management app  
+- **Tech:** Flutter  
 
 ### 📰 News App
-<p align="center">
-  <img src="https://img.shields.io/badge/API-News%20App-orange?style=for-the-badge" />
-</p>
-
-- Fetch latest news using API  
-- Clean responsive UI  
-
----
+- News using API  
+- **Tech:** Flutter, REST API  
 
 ### 🎬 Movies App
-<p align="center">
-  <img src="https://img.shields.io/badge/Movie-App-red?style=for-the-badge" />
-</p>
-
-- Browse movies & ratings  
-- API integration  
+- Movies browsing app  
+- **Tech:** Flutter, API  
 
 ---
 
-## 📫 Contact Me
-<p align="center">
-  <a href="mailto:mariemtayel2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+## 📫 Contact
+- 📧 Email: mariemtayel2@gmail.com  
